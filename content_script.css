@@ -1,0 +1,9 @@
+#player-container .hover-overlay {
+  /* Remove gray shadow from the entire screen. */
+  background: transparent !important;
+}
+
+#videoControls .asc-player-control-center {
+  /* And set shadow on center control only. */
+  background: rgba(0, 0, 0, 0.5);
+}
