@@ -2,9 +2,9 @@
   "manifest_version": 2,
   "name": "d+helper",
   "description": "Disney+ helper",
-  "version": "0.01",
+  "version": "0.1",
   "icons": {
-    "48": "icons/favicon.ico"
+    "48": "icons/favicon.png"
   },
   "content_scripts": [
     {
